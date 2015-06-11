@@ -1,8 +1,6 @@
 This will be short, simple, but painless and useful. We'll show you **how to integrate Facebook SDK with RubyMotion** application.
 
-[Recently  we encouraged you to start using RubyMotion](http://blog.arkency.com/2014/07/one-ruby-to-rule-them-all/) and we presented some useful gems to start developing with.
-
-Now, we'd like to show you how to integrate Facebook iOS SDK with RubyMotion and create sample application from scratch.
+I'd like to show you how to integrate Facebook iOS SDK with RubyMotion and create sample application from scratch.
 
 ## Boilerplate
 

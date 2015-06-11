@@ -1,7 +1,5 @@
 Have you ever wondered **what does your regular workday look like**? Do you have **the same daily habits**? So how is it going? Breakfast, coffee, daily standup, reading mails, some work, off-topic talk with coworkers, dinner, some work and the day is over? If you follow these chain (not necessary in the same order) it is important signal that **things must change**. Not tomorrow, but **right now**.
 
-Since I'm working in Arkency, a lot of things changed for me. What is more, [recent blogpost](/2014/06/my-journey-to-arkency-world/) by [Tomek](/by/rybex/) gave me a fresh overview on my work, being productive and self organized. Moreover, I recently read [Robert](/by/pankowecki)'s book <%= landing_link %>, which gave me a better understanding of being a good developer so I'd like to share with you my impressions.
-
 ## What this is about?
 
 Have you ever worked in *Agile* methodology? You probably have. It is also possible that you were working with *Scrum* or some kind of its variation depending on your needs. And that is good, because it means **you are good**. You can deliver, work in dynamic environment, follow iterations and create robust software.

@@ -1,4 +1,4 @@
-Recently, my colleague at Arkency [Paweł Pacana](https://twitter.com/pawelpacana) wanted to manage application process with upstart. He started with [the previous article about upstart](http://blog.arkency.com/2014/06/create-run-and-manage-your-background-processes-with-upstart/) and finished with robust deployment configuration with reliable setup using... runit. He summarised upstart briefly: *"so sudo"* so I decided to extend my latest blogpost with some information about **upstart user jobs**.
+I decided to extend my latest blogpost with some information about **upstart user jobs**.
 
 Although I am glad that my article was inspiring, it turned out not to be comprehensive enough. I decided to extend it, so that anyone can use `upstart` in every environment.
 
