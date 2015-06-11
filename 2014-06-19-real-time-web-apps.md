@@ -1,9 +1,3 @@
-<p>
-  <figure>
-    <img src="/assets/images/real-time-web/notifications-fit.jpg" width="100%">
-  </figure>
-</p>
-
 From the very beginning web pages were just static. Internet browsers received some HTML code to render and displayed it to user. When someone wanted to check if there are any news on our page, he had to refresh it and then some new data might appeared. Time to change it.
 
 Nowadays, more and more often we'd like to have a **real-time experience** in our web applications. We are lazy and we want to be **notified** about changes without continuously clicking on refresh button in our browsers. Unfortunately HTTP protocol is based on request-response paradigm, so rather than being notified by a sever or listening on an open connection, we make some GETs or POSTs and receive data as an answer.
@@ -40,15 +34,6 @@ wss.on 'connection', (ws) ->
   ws.send 'Connected!'
 
 ```
-
-<p>
-  <figure>
-    <img src="/assets/images/real-time-web/web-sockets.png" width="100%">
-    <details>
-      Source: <a href="http://dsheiko.com/weblog/websockets-vs-sse-vs-long-polling/">dsheiko.com</a>
-    </details>
-  </figure>
-</p>
 
 ### Note about websockets
 Because establishing a `WebSocket` connection might be a little bit tricky, it is worth to describe here some more details about that.
@@ -170,15 +155,6 @@ class NotificationsController < ApplicationController
   end
 end
 ```
-
-<p>
-  <figure>
-    <img src="/assets/images/real-time-web/event-source.png" width="100%">
-    <details>
-      Source: <a href="http://dsheiko.com/weblog/websockets-vs-sse-vs-long-polling/">dsheiko.com</a>
-    </details>
-  </figure>
-</p>
 
 ### Basic differences:
 

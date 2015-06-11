@@ -1,9 +1,3 @@
-<p>
-  <figure align="center">
-    <img src="/assets/images/clean-code/clean-code-fit.jpg" width="100%">
-  </figure>
-</p>
-
 Have you ever wondered **how your code looks?** Exactly - no *what it does* or even *how it is organized*, but actually *how it looks*. One may think here *"oh screw it"*, but I want to present that **it can matter** and show you my various thoughts about that topic.
 
 Recently [Andrzej Krzywda](http://andrzejonsoftware.blogspot.com/) raised a sensitive issue about code refactoring in [Rails Refactoring Book](http://rails-refactoring.com/). It provides a brief understanding about existing pains, possible solutions and gives us an opportunity to discuss it more detailed here. This article is intended to be a supplement for that book to show that not only architecture is important.
@@ -131,10 +125,3 @@ If you think that it's important topic in your daily work and you are willing to
 3. [Beautiful code](http://www.amazon.com/exec/obidos/ASIN/0596510047/)
 4. [The productive programmer](http://www.amazon.com/exec/obidos/ASIN/0596519788)
 5. [Pragmatic programmer](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/)
-
-
-<p>
-  <figure align="center">
-    <img src="/assets/images/clean-code/keep-calm-and-code-clean-fit.png" width="100%">
-  </figure>
-</p>

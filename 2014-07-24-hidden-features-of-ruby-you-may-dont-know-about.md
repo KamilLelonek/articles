@@ -1,9 +1,3 @@
-<p>
-  <figure align="center">
-    <img src="/assets/images/hidden-ruby-features/cherry_on_top-fit.jpg">
-  </figure>
-</p>
-
 How well do you know the language you're using? What if I tell you that even you use it the whole day and every day it still can hide some tricks that you might not be aware of? I'd like to reveal some less or more known, but certainly **interesting parts of Ruby** to make you sure that you don't miss anything.
 
 **Disclaimer**

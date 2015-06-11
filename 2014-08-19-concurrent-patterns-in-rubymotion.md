@@ -1,9 +1,3 @@
-<p>
-  <figure align="center">
-    <img src="/assets/images/mobile/line-queue-fit.jpg" width="100%">
-  </figure>
-</p>
-
 The more we dive into RubyMotion, the more advanced topics we face with. Currently, in one of our RubyMotion applications we are implementing QR code scanning feature. Although it may seem already as a good topic for blogpost, this time we will focus on **concurrency patterns in RubyMotion**, because they are a good start for any **advanced features in iOS** like this 2D code recognition.
 
 ## Caveats

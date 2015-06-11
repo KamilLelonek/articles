@@ -1,9 +1,3 @@
-<p>
-  <figure align="center">
-    <img src="/assets/images/upstart/upstart-logo-fit.png" width="100%" />
-  </figure>
-</p>
-
 Have you ever wanted to run some of your **ruby program as a background service**? There are a couple ways to do that starting from simple `&`, through `runit` to complex services.
 
 This tutorial is intended to give you a quick overview of `upstart`, which is one of the possible solutions to run and manage your background processes.

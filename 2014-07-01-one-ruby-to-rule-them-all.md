@@ -1,9 +1,3 @@
-<p>
-  <figure align="center">
-    <img src="/assets/images/mobile/go-mobile-fit.jpg" width="100%">
-  </figure>
-</p>
-
 Have you noticed the tendency that **development is moving strongly towards mobile**? There are **more and more projects with mobile** companion, there are a lot of just-mobile software houses, and there are even only-mobile projects.
 What if a company has only web developers specialized in Ruby, but want to be really full-stack? Doesn't matter, **with Ruby, it can still goes mobile**!
 

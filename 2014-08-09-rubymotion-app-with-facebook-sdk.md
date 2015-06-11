@@ -1,9 +1,3 @@
-<p>
-  <figure align="center">
-    <img src="/assets/images/mobile/ruby-motion-facebook-fit.png" width="100%">
-  </figure>
-</p>
-
 This will be short, simple, but painless and useful. We'll show you **how to integrate Facebook SDK with RubyMotion** application.
 
 [Recently  we encouraged you to start using RubyMotion](http://blog.arkency.com/2014/07/one-ruby-to-rule-them-all/) and we presented some useful gems to start developing with.

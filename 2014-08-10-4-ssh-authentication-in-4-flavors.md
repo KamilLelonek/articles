@@ -1,9 +1,3 @@
-<p>
-  <figure align="center">
-    <img src="/assets/images/ssh-authentication/ssh-authentication-fit.jpg" width="100%">
-  </figure>
-</p>
-
 We are connecting with remote servers every day. Sometimes we explicitly provide passwords, sometimes it just happens without it. A lot of developers don't care how it works internally, they just get access, so why to bother at all. **There are a couple ways of authentication, which are worth to know** and I'd like to present you them briefly.
 
 Each authentication method requires some setup on the very beginning. Once it's done, we can forget about it and connect without any further configuration. However **there are different ways to configure authentication on your server** with different secure level and initial setup process. Let's review the most common.

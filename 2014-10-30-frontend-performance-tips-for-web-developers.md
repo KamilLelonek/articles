@@ -1,9 +1,3 @@
-<p>
-  <figure>
-    <img src="/assets/images/frontend-performance/performance-fit.png" width="100%">
-  </figure>
-</p>
-
 Optimization has always been a tough topic. [Donald Knuth](https://www.youtube.com/watch?v=75Ju0eM5T2c) said that *premature optimization is the root of all evil*. Performance is something that always causes emotions in web community. When we need it, we tune up our applications, try different and [new servers](http://www.rubyraptor.org/), use load balancers, speed up our applications by playing with threads and processes, but sometimes we forget about frontend at all. Server side is important too, how if we need to provide fast-responding websites, we have to optimize them in our browsers as well. **In this article I'd like to focus on client side and how to efficiently deliver content to end user.**
 
 # What won't be about
